@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\bin\Debug\Rendezes gyakorlas.exe.config
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\bin\Debug\Rendezes gyakorlas.exe
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\bin\Debug\Rendezes gyakorlas.pdb
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\obj\Debug\Rendezes gyakorlas.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\obj\Debug\Rendezes gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\obj\Debug\Rendezes gyakorlas.exe
+C:\Users\Soma\Documents\C#2\Rendezes gyakorlas\Rendezes gyakorlas\obj\Debug\Rendezes gyakorlas.pdb
